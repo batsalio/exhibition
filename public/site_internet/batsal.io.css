@@ -1,0 +1,147 @@
+@charset "utf-8";
+html {
+	scroll-behavior: smooth;
+  }
+body {
+    font-family: 'arial Narrow', 'Helvetica Neue', Arial, Helvetica, Times, serif;
+	font-size-adjust: auto;
+	align-content: center;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+	z-index: 2;
+}
+p {
+	align-content: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 500px;
+	text-align: justify;	
+	font-weight: 100;
+	font-size: 125%;
+}
+.skrollable {
+	pointer-events: none;
+}
+strong {
+	font-weight: 100;
+	font-size: 125%;
+}
+em {
+	font-weight: 400;
+	font-size: 130%
+}
+.presentation {
+	align-content: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 500px;
+	text-align: justify;
+	width: 60%;
+}
+.gold {
+	background: #E78601;
+	align-content: center;
+	margin-bottom: 0;
+}
+.pouvoir {
+	margin-top: -500px;
+	margin-bottom: -5px;
+}
+.pouvoir img {
+	margin-top: -2.5px;
+	margin-bottom: -2.5px;
+}
+.spiritualite {
+		background:#E78601;
+		align-content: center;
+}
+.diplomatie {
+	background:#F36523;
+	align-content: center;
+}
+.flore1 {
+	background:#00A652;
+	align-content: center;
+}
+.faune {
+	background:#FE0000;
+	align-content: center;
+}
+.defense {
+	background:#000000;
+	align-content: center;
+}
+.protection {
+	z-index: 999;
+}
+.protection1 {
+	background:#0000FE;
+	align-content: center;
+	z-index: 1;
+}
+.transmission {
+	margin-top: -50px;
+	background:#c8955f;
+}
+.matrilineaire {
+	width: 60%;
+	margin-top: -50px;
+	margin-bottom: 550px;
+}
+.transmission2{
+	align-content: center;
+	margin: 500px auto;
+}
+.gouvernement {
+	background:#A3A29E;
+	align-content: center;
+}
+.bcg {
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
+	.homeSlide {
+		background-image: url(background_transmission.png);
+		height: 2%;
+		z-index: -2;
+	
+	}
+#pyramide {
+	margin-top: 500px;
+	margin-bottom: 500px;
+}
+#vivant {
+	margin-top: 500px;
+	margin-bottom: 500px;
+}
+#un {
+	margin-top: 500px;
+	margin-bottom: 500px;
+}
+#faune {
+	margin-bottom: -5px;
+}
+#florebis {
+	margin-bottom: -5px;
+}
+#plan {
+	margin-top: 500px;
+	margin-bottom: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	align-content: center;
+}
+#video {
+	margin-top: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	align-content: center;
+}
